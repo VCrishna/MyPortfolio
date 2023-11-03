@@ -16,12 +16,21 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: 12 # Use the Node.js version required by your React app
+          node-version: 14 # Use the Node.js version required by your React app
 
       - name: Install dependencies and build
-        run: |
-          npm i
-          npm run build
+        run: npm i
+      - name: Build
+        run: npm run build
+
+  deploy:
+    needs: build
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
