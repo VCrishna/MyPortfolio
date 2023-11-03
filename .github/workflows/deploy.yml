@@ -16,7 +16,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: 16 # Use the Node.js version required by your React app
+          node-version: 12 # Use the Node.js version required by your React app
 
       - name: Install dependencies and build
         run: npm i
@@ -37,5 +37,5 @@ jobs:
         with:
           personal_token: ${{ secrets.ACTION_TOKEN }}
           external_repository: VCrishna/MyPortfolio
-          publish_branch: depploy
+          publish_branch: gh-pages
           publish_dir: build
