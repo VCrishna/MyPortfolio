@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Delete the gh-pages branch
-        uses: ad-m/delete-gh-pages@v1
+        uses: gh-pages
         with:
           token: ${{ secrets.ACTION_TOKEN }}
 
