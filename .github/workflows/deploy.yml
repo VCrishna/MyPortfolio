@@ -16,7 +16,6 @@ jobs:
           token: ${{ secrets.ACTION_TOKEN }}
 
   build:
-    needs: delete-gh-pages
     runs-on: ubuntu-latest
 
     steps:
