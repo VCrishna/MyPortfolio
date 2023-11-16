@@ -197,6 +197,12 @@
 				"category": "",
 				"image": "NexTechInterviews.jpg",
 				"url": "https://vcrishna.github.io/AppUI/"
+			},
+			{
+				"title": "Secure Online Voting System",
+				"category": "",
+				"image": "VotingProject.jpeg",
+				"url": "https://github.com/VCrishna/SecureOnlineVotingSystem"
 			}
 		]
 	},
