@@ -42,7 +42,7 @@
 				"school": "Binghamton University - State University of New York",
 				"degree": "Master of Science, Computer Science",
 				"description": "Expected Graduation: December 2023",
-				"GPA": "3.75/4.0"
+				"GPA": "3.8/4.0"
 			}
 		],
 
@@ -92,7 +92,7 @@
 			},
 			{
 				"company": "Infosys Limited",
-				"title": "Systems Engineer - Java Full Stack Developer",
+				"title": "Systems Engineer - Software Development Engineer",
 				"years": "December 2019 - December 2021",
 				"description1": "Excelled Infosys Foundation Program with an overall aggregate of 92% and worked as Java full stack web application developer in a Research & Development Project at Infosys Center for Emerging Technology Solutions (iCETS)",
 				"description2": "Infosys Database Migration(iDM) Platform : Developed a web-based database migration tool for users to migrate databases from one source database to target database like Oracle, MS SQL Server to PostgreSQL",
