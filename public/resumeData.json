@@ -27,11 +27,6 @@
 				"name": "github",
 				"url": "https://github.com/VCrishna/",
 				"className": "fa fa-github"
-			},
-			{
-				"name": "leetcode",
-				"url": "https://leetcode.com/KrishnaaV/",
-				"className": "fa fa-code"
 			}
 		]
 	},
