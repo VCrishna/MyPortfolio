@@ -27,11 +27,6 @@
 				"name": "github",
 				"url": "https://github.com/VCrishna/",
 				"className": "fa fa-github"
-			},
-			{
-				"name": "leetcode",
-				"url": "https://leetcode.com/KrishnaaV/",
-				"className": "fa fa-code"
 			}
 		]
 	},
@@ -41,7 +36,7 @@
 			{
 				"school": "Binghamton University - State University of New York",
 				"degree": "Master of Science, Computer Science",
-				"description": "Expected Graduation: December 2023",
+				"description": "December 2023",
 				"GPA": "3.8/4.0"
 			}
 		],
