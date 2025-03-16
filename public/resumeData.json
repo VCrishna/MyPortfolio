@@ -10,9 +10,9 @@
 		"phone": "+1 (607)-313-8715",
 		"address": {
 			"street": "",
-			"city": "Binghamton",
-			"state": "New York",
-			"zip": "13905"
+			"city": "Dallas",
+			"state": "Texas",
+			"zip": "75039"
 		},
 		"website": "https://www.papareact.com/course",
 		"resumedownload": "Sai_Krishna_Varakala_Resume.pdf",
@@ -27,6 +27,11 @@
 				"name": "github",
 				"url": "https://github.com/VCrishna/",
 				"className": "fa fa-github"
+			},
+			{
+				"name": "Leetcode",
+				"url": "https://leetcode.com/u/KrishnaaV/",
+				"className": "fa fa-code"
 			}
 		]
 	},
@@ -69,6 +74,13 @@
 		],
 
 		"work": [
+			{
+				"company": "Goldman Sachs",
+				"title": "Associate Software Engineer",
+				"years": "April 2024 - Present",
+				"description1": "",
+				"description2": ""
+			},
 			{
 				"company": "Binghamton University - SUNY",
 				"title": "Student Assistant - Graduate Grader",
